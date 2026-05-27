@@ -1,6 +1,6 @@
-# CoopConnect
+# CooperaPyme
 
-CoopConnect es una plataforma diseñada para conectar PYMEs con Cooperativas, facilitando la colaboración y el crecimiento conjunto.
+CooperaPyme es una plataforma diseñada para conectar PYMEs con Cooperativas, facilitando la colaboración y el crecimiento conjunto.
 
 ## Características Principales
 
